@@ -19,7 +19,7 @@ Git is the most popular version control system that developers use to track and 
  - Distriubted Repository: This means everbody has a complete copy of the repo. The nice thing about this is that you can make commits really quickly, can work on it offline and everybody has a complete copy. Tha way if one gets destroyed, everybody has a copy of the repo.
  
  Commit history
-<!-- ![alt text](https://github.com/Balasnest/GithubNotes/blob/master/screenshots/commit-history.png?raw=true "Commit History")-->
+![alt text](https://github.com/Balasnest/GithubNotes/blob/master/screenshots/commit-history.png?raw=true "Commit History")
  
  Unlike working with a centralized repository, if you lose all your backups and your server goes down, you are out of luck.
   
